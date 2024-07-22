@@ -20,9 +20,15 @@ fun NormalTextComponent(value: String) {
         text = value,
         modifier = Modifier
             .fillMaxWidth()
+<<<<<<< HEAD
             .heightIn(min = 40.dp),
         style = TextStyle(
             fontSize = 24.sp,
+=======
+            .heightIn(min = 80.dp),
+        style = TextStyle(
+            fontSize = 18.sp,
+>>>>>>> 39eee528ccd42a4954fb8367618593bf32323429
             fontWeight = FontWeight.Normal,
             fontStyle = FontStyle.Normal
         ),
@@ -31,6 +37,7 @@ fun NormalTextComponent(value: String) {
 
     ) //Text
 }
+<<<<<<< HEAD
 
 @Composable
 fun HeadingTextComponent(value: String) {
@@ -49,3 +56,5 @@ fun HeadingTextComponent(value: String) {
 
     ) //Text
 }
+=======
+>>>>>>> 39eee528ccd42a4954fb8367618593bf32323429

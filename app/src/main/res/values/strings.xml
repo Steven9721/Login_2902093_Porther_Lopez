@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Login2902093</string>
     <string name="hello">Hey There,</string>
+<<<<<<< HEAD
     <string name="create_account">Create an Account,</string>
     <string name="welcome">Welcome Back,</string>
+=======
+>>>>>>> 39eee528ccd42a4954fb8367618593bf32323429
 </resources>
